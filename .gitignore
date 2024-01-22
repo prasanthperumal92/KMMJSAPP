@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+shared/build
+shared/.gradle
+kotlin-js-store/yarn.lock
